@@ -1,8 +1,8 @@
-name: "toggle-editor-mode"
-displayName: "Toggle Editor Mode"
-author: "ElectricGun"
-description: "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
+name: "toggle-editor-mode-2024"
+displayName: "Toggle Editor Mode 2024"
+author: "mimitvripple"
+description: "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay.\n\nNo "
 version: "3.0"
-repo: "electricgun/toggle-editor-mode"
+repo: "mimitvripple/toggle-editor-mode-2024"
 hidden: true
 minGameVersion: "138"
